@@ -1,0 +1,9 @@
+{
+    // atoms-autocomplete-modules
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "~/*": ["src/*"]
+        }
+    }
+}
